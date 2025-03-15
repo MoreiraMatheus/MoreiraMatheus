@@ -14,11 +14,6 @@
   <img align="center" alt="Matheus-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Matheus-Reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
 </div>
-  
-## Estudos por diversão(não é meu foco atual) 😁
-<div>
-  <img align="center" alt="Matheus-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
-</div>
 
 ## Fale comigo 📱
 <div>
