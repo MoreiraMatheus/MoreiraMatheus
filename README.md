@@ -1,20 +1,11 @@
 # Olá mundo! Me chamo Matheus
-  <style>
-    .portfolio:hover{
-      box-shadow: 0 0 10px rgb(138, 135, 135);
-    }
-  </style>
-
 <div align="center">
-
-  <div align="center" style="background-color: #333; padding: 15px 5px;width: fit-content;border-radius: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraMatheus&layout=compact&langs_count=7&theme=gotham"/ width='400'>
-    <div align="center" style='margin-top: 10px;background-color: #0D1117;border: 1px solid #fff;width: fit-content;padding: 10px;border-radius: 20px;cursor: pointer;transition: box-shadow .3s ease;' class="portfolio">   
-      <a href="https://www.matheusms.com.br" target="_blank" style="color: #fff;text-decoration: none;">Acesse meu portfólio 📄</a>
-    </div>
-  </div>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraMatheus&layout=compact&langs_count=7&theme=gotham)
+  
+  [![Botão Portfólio](https://img.shields.io/badge/Acesse%20meu%20portfólio%20📄-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.matheusms.com.br)
+  
 </div>
-
 
 ## Tecnologias 💻
 <div style="display: inline_block">
