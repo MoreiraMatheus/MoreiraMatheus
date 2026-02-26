@@ -1,8 +1,6 @@
 # Olá mundo! Me chamo Matheus
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraMatheus&layout=compact&langs_count=7&theme=gotham)
-  
   [![Botão Portfólio](https://img.shields.io/badge/Acesse%20meu%20portfólio%20📄-0D1117?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.matheusms.com.br)
   
 </div>
